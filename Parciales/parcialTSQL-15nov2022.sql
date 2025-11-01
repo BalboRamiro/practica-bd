@@ -21,6 +21,6 @@ BEGIN
 
 END;
 GO
-|
+
 SELECT * from Item_Factura
 
