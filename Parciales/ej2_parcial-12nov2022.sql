@@ -1,5 +1,5 @@
 /*
-	Ejercicio 2 del Parcial 12/11/2022 Lacquaniti
+	Ejercicio T-SQL del Parcial 12/11/2022 Lacquaniti
 
 	Implementar una regla de negocio de validación en línea que permita
 	validar STOCK al realizarse una venta. Cada venta se debe descontar
